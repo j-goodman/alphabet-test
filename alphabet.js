@@ -1,2 +1,2 @@
-const vowels = "aeiouy"
-const consonants = "bcdfghjklmnpqrstvwxz"
+const vowels = "aeiou"
+const consonants = "bcdfghjklmnpqrstvwxyz"
